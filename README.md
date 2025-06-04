@@ -1,6 +1,6 @@
-# ReactFlow Workshop Boilerplate
+# React Flow Workshop Boilerplate
 
-A minimal React + TypeScript + ReactFlow starter project for workshop attendees.
+A minimal React + TypeScript + React Flow starter project for workshop attendees.
 
 ## Quick Start
 
